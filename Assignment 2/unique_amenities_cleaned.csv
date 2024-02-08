@@ -1,4 +1,5 @@
 original,new
+,missing
   Bosh refrigerator,refrigerator
   Scandinavian White body soap,bodysoap
   Scandinavian White shampoo,shampoo
@@ -945,7 +946,6 @@ original,new
  Fast wifi 515 Mbps,wifi
  Fast wifi 516 Mbps,wifi
  Fast wifi 517 Mbps,wifi
-Fast wifi 518 Mbps,wifi
  Fast wifi 52 Mbps,wifi
  Fast wifi 520 Mbps,wifi
  Fast wifi 521 Mbps,wifi
@@ -1045,6 +1045,7 @@ Fast wifi 518 Mbps,wifi
  Fast wifi 97 Mbps,wifi
  Fast wifi 98 Mbps,wifi
  Fast wifi 99 Mbps,wifi
+Fast wifi 180 Mbps,wifi
  Feno,others
  Feno Portugal body soap,bodysoap
  Feno de Portugal body soap,bodysoap
@@ -2215,13 +2216,13 @@ Essentials,essentials
 Exercise equipment,gym
 Extra pillows and blankets,luxuryamenities
 FAGOR electric stove,kitchen
-Fast wifi 180 Mbps,wifi
 Fast wifi 248 Mbps,wifi
 Fast wifi 271 Mbps,wifi
 Fast wifi 290 Mbps,wifi
 Fast wifi 343 Mbps,wifi
 Fast wifi 366 Mbps,wifi
 Fast wifi 50 Mbps,wifi
+Fast wifi 518 Mbps,wifi
 Fast wifi 53 Mbps,wifi
 Fast wifi 560 Mbps,wifi
 Fast wifi 615 Mbps,wifi
@@ -2304,3 +2305,4 @@ Wifi 18 Mbps,wifi
 Wifi 4 Mbps,wifi
 Wine glasses,kitchen
 Zanussi gas stove,kitchen
+ Fast wifi 518 Mbps,wifi
